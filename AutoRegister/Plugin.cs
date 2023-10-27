@@ -30,7 +30,7 @@ namespace AutoRegister
         /// <summary>
         /// The author(s) of the plugin.
         /// </summary>
-        public override string Author => "brian91292 & moisterrific";
+        public override string Author => "brian91292 & moisterrific & armorking596";
 
         /// <summary>
         /// A short, one-line, description of the plugin's purpose.
